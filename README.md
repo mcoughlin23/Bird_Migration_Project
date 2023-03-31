@@ -4,7 +4,7 @@
   In this data set, our team analyzes the differing flight paths between three birds. These birds are Eric, Nico, and Sanne. More specifically, our team wanted to uncover the different migration routes each bird took as they flew south. In addition to this, our team took note of each country the birds stayed in the winter months and then migrated back towards in the spring. Through this analysis, our team also discovered the average distance and speed of each bird.
 
 ## How to get started: 
-  This data set includes visuals used from plotly. Although our .ipynb file does not show these visuals, we uploaded both .html and .pdf files to display these visuals. In order to have these visuals load in your own notebook, be sure to import the following libraries.
+  This data set includes visuals used from the plotly library. Although our .ipynb file does not show these visuals on this platform, we uploaded both .html and .pdf files to display these visuals. In order to have these visuals load in your own notebook, be sure to import the following libraries.
   
   In addition, be sure to download the included .csv file in order to do your own analysis. The .csv file is uploaded under the name "bird_tracking.csv"
   
